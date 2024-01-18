@@ -25,5 +25,8 @@ git log
 git log --oneline
 ```
 
-
+Выбор из всех коммитов списка какого-либо одного:
+```sh
 git checkout
+```
+
