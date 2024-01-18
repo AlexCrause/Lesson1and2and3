@@ -20,6 +20,10 @@ git commit -m "Message"
 git log
 ```
 
-
+Вывод краткого списка зафиксированных коммитов:
+```sh
 git log --oneline
+```
+
+
 git checkout
