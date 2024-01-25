@@ -33,7 +33,7 @@ git log --oneline
 ```sh
 git checkout <name commit>
 ```
-Просмотр на какой ветке в данный момент находимся:
+Отображение всех веток:
 ```sh
 git branch
 ```
