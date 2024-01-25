@@ -22,7 +22,7 @@ git diff
 
 Фиксация коммита и комментария:
 ```sh
-git commit -m "Message text"
+git commit -m "Message текст"
 ```
 
 Вывод подробного списка зафиксированных коммитов:
